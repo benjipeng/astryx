@@ -85,6 +85,7 @@
     "@xds/core": "*",
     "@xds/lab": "*",
     "@xds/theme-default": "*",
-    "@xds/theme-neutral": "*"
+    "@xds/theme-neutral": "*",
+    "gpt-tokenizer": "^2.0.0"
   }
 }
